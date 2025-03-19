@@ -1,0 +1,48 @@
+Simulated Parameters:
+Boundary separation (α): 1.9656175934644744
+Drift rate (ν): 0.8311787156423975
+Nondecision time (τ): 0.3527982189578083
+
+Predicted Summary Statistics:
+Accuracy Rate (R_pred): 0.8366867356961748
+Mean RT (M_pred): 1.1490137123478643
+Variance RT (V_pred): 0.3883259666654798
+
+Observed Statistics for N=10:
+Accuracy Rate (R_obs): 0.8
+Mean RT (M_obs): 1.1144007957033055
+Variance RT (V_obs): 0.31484874707971117
+
+Recovered Parameters for N=10:
+Drift rate (ν_est): 2.3470395143840235
+Boundary separation (α_est): 0.5906565921126903
+Nondecision time (τ_est): 1.0389027154418353
+
+Estimation Bias for N=10: (-1.515860798741626, 1.3749610013517841, -0.686104496484027)
+Squared Error for N=10: (2.2978339611616003, 1.8905177552383008, 0.4707393800956003)
+
+Observed Statistics for N=40:
+Accuracy Rate (R_obs): 0.8
+Mean RT (M_obs): 1.0747847736599638
+Variance RT (V_obs): 0.3365787716658867
+
+Recovered Parameters for N=40:
+Drift rate (ν_est): 2.2700113334596264
+Boundary separation (α_est): 0.6106993126801263
+Nondecision time (τ_est): 0.9940760163495693
+
+Estimation Bias for N=40: (-1.4388326178172288, 1.354918280784348, -0.641277797391761)
+Squared Error for N=40: (2.07023930209478, 1.8358035476036134, 0.41123721342762853)
+
+Observed Statistics for N=4000:
+Accuracy Rate (R_obs): 0.83125
+Mean RT (M_obs): 1.1333588294928103
+Variance RT (V_obs): 0.3897362538412049
+
+Recovered Parameters for N=4000:
+Drift rate (ν_est): 2.6537432324864363
+Boundary separation (α_est): 0.600854009799373
+Nondecision time (τ_est): 1.0583580199534648
+
+Estimation Bias for N=4000: (-1.8225645168440388, 1.3647635836651015, -0.7055598009956565)
+Squared Error for N=4000: (3.3217414180589446, 1.8625796392984106, 0.49781463278103044)
